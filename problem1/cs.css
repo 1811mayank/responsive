@@ -1,0 +1,196 @@
+
+
+
+@media screen and (max-width : 991px) {
+    #abc{
+        display: none;
+    }
+    #button1{
+        display: none;
+    }
+    #col1{
+        display: none;
+    }
+    #col2{
+        display: none;
+    }
+    #col3{
+        display: none;
+    }
+    #lastline1{
+        text-align: center;
+        margin-right: 2rem;
+    }
+    #lastline2{
+        text-align: center;
+        
+    } 
+    .lastline{
+        
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+    #lastimg{
+        margin-left: 1rem;
+    }
+
+}
+.address {
+    margin-left: 53px;
+    color: #112D35;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+}
+#col4{
+    display: none;
+}
+#col5{
+    display: none;
+}
+#col6{
+    display: none;
+}
+#button2{
+    display: none;
+}
+#fb{
+    display: none;
+   
+}
+#utube{
+    display: none;
+}
+#lidn{
+    display: none;
+
+}
+#fb1{
+    height: 10%;
+    float: right;
+    width: 11.5%;
+    
+   
+}
+#utube1{
+    float: right;
+    margin-top: 0.3rem;
+    margin-left: 0.5rem;
+    width: 10%;
+
+}
+#lidn1{
+    margin-top: 0.3rem;
+    margin-left: 0.5rem;
+    float: right;
+    width: 10%;
+
+}
+@media screen  and (max-width : 991px){
+    #button2{
+        display:inline;
+    }
+    #col4{
+        display: block;
+    }
+    #col5{
+        display: block;
+    }
+    #col6{
+        display: block;
+    }
+    #fb{
+        display: inline;
+        width: 11.5%;
+       
+    }
+    #utube{
+        display: inline;
+        text-align: center;
+        width: 10%;
+    
+    }
+    #lidn{
+        display: inline;
+        width: 10%;
+    
+    }
+    #fb1{
+        display: none;
+       
+    }
+    #utube1{
+        display: none;
+    }
+    #lidn1{
+        display: none;
+    
+    }
+    
+}
+
+
+
+.lastline{
+    
+    display: inline-block;
+    padding-left: 10rem;
+    padding-right: 5rem;
+}
+
+.text-whites{
+    color: #1F94AA; color: inherit; text-decoration: none;
+}
+
+.text-heads{
+    color: white;
+    text-decoration: none;
+}
+
+.insta-img {
+    width: 50px;
+}
+
+
+
+
+
+
+
+
+.button1 {
+    margin-top: auto;
+    color: white;
+    margin-bottom: auto;
+    height: 40px;
+    width: 130px;
+    border-radius: 26px;
+    background-color: #1f94aa;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
